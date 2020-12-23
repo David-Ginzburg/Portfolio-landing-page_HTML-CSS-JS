@@ -1,1 +1,1 @@
-https://vadim-mostovenko.github.io/Portfolio-main-page-HTML-CSS-JS/
+https://vadim-mostovenko.github.io/Portfolio-landing-page_HTML-CSS-JS/
